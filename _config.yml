@@ -1,7 +1,7 @@
 name: WhiskyCollection
 favicon: null
-layout_spectrum: 0.32786800363101065
-typography_spectrum: 0.6876557250507176
+layout_spectrum: 0
+typography_spectrum: 1
 cta:
   domain: null
   bucket: null
