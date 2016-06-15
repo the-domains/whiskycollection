@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[WhiskyCollection]]></title>
+        <description><![CDATA[WhiskyCollection]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 15 Jun 2016 14:19:57 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Balblair 1999 / 2nd Release Scotch Whisky : The Whisky Exchange]]></title>
+            <description><![CDATA[<article><h1>Balblair 1999 / 2nd Release Scotch Whisky : The Whisky Exchange</h1><p>Balblair's second release of its 1999 vintage (the first was released for the travel retail market) replaces the 1997. It's a combination of American oak, ex-bourbon barrels and Spanish oak ex-sherry butts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0876632ccff6afe5e7d1e49183e0bc3b/croprotate.jpg?cropheight=489&cropwidth=540&degrees=0&input=https%3A%2F%2Fimg.thewhiskyexchange.com%2F540%2Fblbob.1999.jpg&x=0&y=119"></article>]]></description>
+            <link>https://www.thewhiskyexchange.com/p/25460/balblair-1999-2nd-release</link>
+            <guid isPermaLink="false">25ef409f-b39e-4616-bd24-fc86e4a5ed1b</guid>
+            <pubDate>Wed, 15 Jun 2016 14:19:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
