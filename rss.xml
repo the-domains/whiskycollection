@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[WhiskyCollection]]></title>
         <description><![CDATA[WhiskyCollection]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/whiskycollection/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 15 Jun 2016 14:19:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 15 Jun 2016 14:20:06 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/whiskycollection/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://cdn.shopify.com/s/files/1/1059/4334/products/DSC_0007a_1024x1024.jpg?v=1460896799">]]></description>
+            <link>https://thegrid.ai/whiskycollection/3e0a910f-b0bc-4a65-8dd5-1666fc7c37a6/index.html</link>
+            <guid isPermaLink="false">3e0a910f-b0bc-4a65-8dd5-1666fc7c37a6</guid>
+            <pubDate>Wed, 15 Jun 2016 14:19:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Balblair 1999 / 2nd Release Scotch Whisky : The Whisky Exchange]]></title>
             <description><![CDATA[<article><h1>Balblair 1999 / 2nd Release Scotch Whisky : The Whisky Exchange</h1><p>Balblair's second release of its 1999 vintage (the first was released for the travel retail market) replaces the 1997. It's a combination of American oak, ex-bourbon barrels and Spanish oak ex-sherry butts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0876632ccff6afe5e7d1e49183e0bc3b/croprotate.jpg?cropheight=489&cropwidth=540&degrees=0&input=https%3A%2F%2Fimg.thewhiskyexchange.com%2F540%2Fblbob.1999.jpg&x=0&y=119"></article>]]></description>
