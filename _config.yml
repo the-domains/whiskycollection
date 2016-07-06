@@ -1,6 +1,6 @@
 name: WhiskyCollection
 favicon: null
-layout_spectrum: 0.15662345988675952
+layout_spectrum: 0.22239980637095869
 typography_spectrum: 0.01835982082411647
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#2C3E50'
-    - '#E74C3C'
-    - '#ECF0F1'
-    - '#3498DB'
-    - '#2980B9'
-  brandStrength: 0.0076020939741283655
-  lightness: 0.012807144550606608
-  saturation: 0.8243996289093047
-  rhythmicContrast: 0.693857979029417
+    - '#468966'
+    - '#FFF0A5'
+    - '#FFB03B'
+    - '#B64926'
+    - '#8E2800'
+  brandStrength: 0.9830708124209195
+  lightness: 0.6824637125246227
+  saturation: 0.832062820205465
+  rhythmicContrast: 0.26142634940333664
 purpose: []
